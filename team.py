@@ -8,6 +8,8 @@ FEATURES = [
     "用户注册",
     "用户登录",       # feature/login 新增
     "JWT 鉴权",       # feature/login 新增
+    "数据仪表盘",     # feature/dashboard 新增
+    "图表可视化",     # feature/dashboard 新增
 ]
 
 # 模块负责人（各分支会修改同一行，故意制造冲突）
