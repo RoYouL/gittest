@@ -2,5 +2,5 @@
 
 
 def calculate_price(price: float) -> float:
-    # 在这里加处理逻辑
+    price = price * 0.9  # 打九折优惠
     return price
